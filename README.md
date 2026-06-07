@@ -1,6 +1,13 @@
 # 💫 About Me:
 🔭 I’m currently working on MasterSect — Building premium websites, UI/UX design systems, and digital experiences.<br><br>👯 I’m looking to collaborate on Web Development and SaaS Projects<br><br>🤝 I’m looking for help with AI Integrations and Advanced Backend Development<br><br>🌱 I’m currently learning Next.js, TypeScript, and AI Tools<br><br>💬 Ask me about React, JavaScript, Web Development, and YouTube Growth<br><br>⚡ Fun fact: I turn ideas into high-converting websites and digital brands.
 
+<p align="center">
+  <img src="https://your-banner-image-url-here.png" alt="MasterSect Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=MASTERSECT;Premium+Web+Developer;React+%26+Next.js+Developer;UI%2FUX+Designer;Building+Digital+Experiences" alt="Typing SVG" />
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/masterssect) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masterssect) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mastersectai@gmail.com) 
