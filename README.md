@@ -2,7 +2,7 @@
 🔭 I’m currently working on MasterSect — Building premium websites, UI/UX design systems, and digital experiences.<br><br>👯 I’m looking to collaborate on Web Development and SaaS Projects<br><br>🤝 I’m looking for help with AI Integrations and Advanced Backend Development<br><br>🌱 I’m currently learning Next.js, TypeScript, and AI Tools<br><br>💬 Ask me about React, JavaScript, Web Development, and YouTube Growth<br><br>⚡ Fun fact: I turn ideas into high-converting websites and digital brands.
 
 <p align="center">
-  <img src="[https://your-banner-image-url-here.png](https://github.com/MohdAbdulAli/private/blob/0399c4055578d5bd918241bc67c0d5c4d910b670/ChatGPT%20Image%20Jun%207%2C%202026%2C%2009_15_28%20AM.png)" alt="MasterSect Banner" width="100%">
+  <img src="https://github.com/MohdAbdulAli/private/blob/0399c4055578d5bd918241bc67c0d5c4d910b670/ChatGPT%20Image%20Jun%207%2C%202026%2C%2009_15_28%20AM.png" alt="MasterSect Banner" width="100%">
 </p>
 
 <p align="center">
