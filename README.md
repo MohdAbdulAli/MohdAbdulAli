@@ -7,6 +7,8 @@
   <img src="https://github.com/MohdAbdulAli/private/blob/0399c4055578d5bd918241bc67c0d5c4d910b670/ChatGPT%20Image%20Jun%207%2C%202026%2C%2009_15_28%20AM.png" alt="MasterSect Banner" width="100%">
 </p>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=MASTERSECT;Premium+Web+Developer;React+%26+Next.js+Developer;UI%2FUX+Designer;Building+Digital+Experiences" alt="Typing SVG" />
 </p>
